@@ -24,4 +24,8 @@ public class VersionServiceImpl2 implements VersionService {
         return "hello2, " + name;
     }
 
+    @Override
+    public String autoLearn(String course) {
+        return null;
+    }
 }

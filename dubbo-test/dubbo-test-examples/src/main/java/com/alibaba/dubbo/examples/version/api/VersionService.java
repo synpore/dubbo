@@ -20,4 +20,6 @@ public interface VersionService {
 
     String sayHello(String name);
 
+    String autoLearn(String course);
+
 }
